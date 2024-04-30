@@ -1,0 +1,81 @@
+body{
+    overflow-x: hidden;
+}
+.container-fluid{
+    overflow-x: hidden;
+}
+.row{
+    overflow-x: hidden;
+}
+ul.list a {
+    color: black;
+}
+.btn2{
+    margin-top: 0%;
+}
+.input-group{
+    width: 300px;
+}
+.button{
+    width: 110px;
+}
+.yy{
+height: 447px;
+width: 438px;
+}
+.div1{
+    background-image: url(Rectangle\ 14.png);
+    /* background-color: rgb(153, 247, 247); */
+    background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+
+    
+}
+.row7{
+    display: flex;
+}
+.displayfive{
+    display: flex;
+    /* margin-left: 50px; */
+    margin-top: 10px;
+}
+.bb{
+    display: flex;
+   margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media screen and (max-width:570px) {
+    .fifthpng{
+        width: 200px;
+        
+    }
+}
+@media screen and (max-width:600px) {
+    .input-group{
+        width: 200px;
+        
+    }
+    .button{
+        width: 90px;
+        font-size: 13px;
+    }
+    .b1{
+        font-size: 13px;
+    }
+
+}
+@media screen and (max-width:245px) {
+    .input-group{
+        width: 150px;
+        
+    }
+    .button{
+        width: 50px;
+        font-size: 8px;
+    }
+    .b1{
+        font-size: 8px;
+    }
+
+}
